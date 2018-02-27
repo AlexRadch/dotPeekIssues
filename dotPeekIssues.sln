@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "dotPeekIssues", "dotPeekIssues\dotPeekIssues.shproj", "{4F3CFDE2-C936-4277-A2D4-AA5672E7C87E}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		dotPeekIssues\dotPeekIssues.projitems*{4f3cfde2-c936-4277-a2d4-aa5672e7c87e}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90DC76F6-B3A9-4588-97D2-C7927EC3360C}
+	EndGlobalSection
+EndGlobal
